@@ -40,7 +40,9 @@ div.container{
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    color:black;
 }
 .pt{
     padding:12px 0px 0px 0px;
+    color:gray;
 }
